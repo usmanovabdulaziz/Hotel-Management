@@ -37,3 +37,7 @@ Tekshirish: Maya R101 bandlovini bekor qiladi → R7 xonasi 12–14 noyabr sanal
 Bandlovni uning ID raqami orqali qidirish mumkin.
 
 Tekshirish: R101 → Maya, R7, 12–14 noyabr, Confirmed.
+
+## R6 · Xabarnoma yuborishdagi xatolik (Failed message)
+
+Agar booking tasdiqlangani haqidagi xabarnomani yuborish muvaffaqiyatsiz bo‘lsa, booking bazada saqlangan va Accepted holatida qolishi kerak. Xabarnoma yuborishdagi xatolik haqida tizim xabar berishi kerak.
